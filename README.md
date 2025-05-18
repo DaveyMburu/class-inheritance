@@ -12,6 +12,8 @@ In this lab you will:
 - Create a domain model using OOP 
 - Use inheritance to write nonredundant code 
 
+# Check index.ipynb file for my workings
+
 ## Modeling a Zoo
 
 Consider the following scenario:  You've been hired by a zookeeper to build a program that keeps track of all the animals in the zoo.  This is a great opportunity to make use of inheritance and object-oriented programming!
